@@ -1,5 +1,5 @@
 {
-    "name": "nategood/httpful",
+    "name": "atomy/httpful",
     "description": "A Readable, Chainable, REST friendly, PHP HTTP Client",
     "homepage": "http://github.com/nategood/httpful",
     "license": "MIT",
@@ -13,8 +13,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3",
-        "ext-curl": "*"
+        "php": ">=5.3"
     },
     "autoload": {
         "psr-0": {
